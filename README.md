@@ -19,11 +19,11 @@ Payload:
 }
 ```
 
-### Get and employee by Id
+### Get an employee by Id
 ```GET```
 ```localhost:8080/empregado/1```
 
-### Get and employee by name
+### Get an employee by name
 ```GET```
 ```localhost:8080/empregado/?nome=Asdrubal```
 
